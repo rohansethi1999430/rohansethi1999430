@@ -1,13 +1,15 @@
 <h1> Hello, I'm Rohan Sethi, great to see you here!
  <img src="https://github.com/Apoorvs23/Apoorvs23/blob/master/memoji.png"  width="15%" align="right" alt="Memoji"/></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
+* 💼 Currently working with Royal Bank of Canada (RBC) as a Full Stack Developer Intern.
+
 * 📖 Pursuing my Master's in Applied Computing from [University of Windsor]((https://www.uwindsor.ca/graduate-studies/305/applied-computing)). 
 
 * 🧑🏻‍💻 Software Engineer with 2.8 years of experience working for companies like Dell Technologies and Cognizant. 
 
-* 💡 Always open to collaborating on projects and innovative ideas. 
+* 🚀 Passionate about innovation and always open to collaborating on projects & ideas.
 
-* 💻 Seeking full-time opportunities starting April
+* 🔍 Seeking full-time opportunities starting April 2025.
 
 Find out more about me & feel free to connect with me here:
 
