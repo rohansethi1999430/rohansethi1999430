@@ -7,7 +7,7 @@
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
-* 💻 Seeking full time opportunities 
+* 💻 Seeking full-time opportunities starting April
 
 Find out more about me & feel free to connect with me here:
 
