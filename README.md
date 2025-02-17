@@ -7,7 +7,7 @@
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
-* 💻 Seeking Winter 2025 internships
+* 💻 Seeking full time opportunities 
 
 Find out more about me & feel free to connect with me here:
 
